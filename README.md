@@ -1,1 +1,1 @@
-# This project is demonstration of Pepper Animations
+This project is demonstration of Pepper Animations
